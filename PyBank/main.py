@@ -3,12 +3,14 @@
 import os
 # Module for reading CSV files
 import csv
+#Get current working directory
+cwkdir = os.getcwd()
+#Append file directory and make a complete file path
+csvpath = os.path.join( cwkdir,'Resources','budget_data.csv')
 
-#csvpath = os.path.join('..','WUSTL-STL-DATA-PT-10-2019-U-C', '03-Python','Homework','Instructions','PyBank','Resources', 'budget_data.csv')
-csvfile ='C:/Users/hxl08/OneDrive/Desktop/WUSTL-STL-DATA-PT-10-2019-U-C/03-Python/Homework/Instructions/PyBank/Resources/budget_data.csv'
 # Reading using CSV module
 
-with open(csvfile, newline='') as budget_data:
+with open(csvpath, newline='') as budget_data:
 
     # CSV reader specifies delimiter and variable that holds contents
     csvreader = csv.reader(budget_data, delimiter=',')
