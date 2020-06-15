@@ -12,7 +12,16 @@ Following items are calculated:
   * The greatest increase in profits (date and amount) over the entire period
 
   * The greatest decrease in losses (date and amount) over the entire period
-Another aspect of this project is to analyze the voting data.
+Another aspect of this project is to analyze the voting data. Following items are calculated:
+  * The total number of votes cast
+
+  * A complete list of candidates who received votes
+
+  * The percentage of votes each candidate won
+
+  * The total number of votes each candidate won
+
+  * The winner of the election based on popular vote.
 
 
 ## Data Source ##
