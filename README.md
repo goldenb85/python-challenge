@@ -18,6 +18,7 @@ Following items are calculated:
 ## Tool ##
 Python
 ## Script ##
+* [Budget Script](PyBank/main.py)
 ## Result ##
   ```text
   Financial Analysis
