@@ -12,6 +12,8 @@ Following items are calculated:
   * The greatest increase in profits (date and amount) over the entire period
 
   * The greatest decrease in losses (date and amount) over the entire period
+Another aspect of this project is to analyze the voting data.
+
 
 ## Data Source ##
 * [Budget Data](PyBank/Resources/budget_data.csv)
