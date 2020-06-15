@@ -16,7 +16,7 @@ Following items are calculated:
 ## Data Source ##
 
 ## Tool ##
-
+Python
 ## Result ##
   ```text
   Financial Analysis
