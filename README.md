@@ -17,6 +17,7 @@ Following items are calculated:
 * [Budget Data](PyBank/Resources/budget_data.csv)
 ## Tool ##
 Python
+## Script ##
 ## Result ##
   ```text
   Financial Analysis
