@@ -26,10 +26,13 @@ Another aspect of this project is to analyze the voting data. Following items ar
 
 ## Data Source ##
 * [Budget Data](PyBank/Resources/budget_data.csv)
+* [Election Data](PyPoll/Resources/election_data.csv)
+
 ## Tool ##
 Python
 ## Script ##
 * [Budget Script](PyBank/main.py)
+* [Election Script](PyPoll/main.py)
 ## Result ##
   ```text
   Financial Analysis
@@ -40,7 +43,7 @@ Python
   Greatest Increase in Profits: Feb-2012 ($1926159)
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
-    ```text
+  ```text
   Election Results
   -------------------------
   Total Votes: 3521001
